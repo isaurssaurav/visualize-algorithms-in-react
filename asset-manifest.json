@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/visualize-algorithms-in-react/static/css/main.51f32347.chunk.css",
-    "main.js": "/visualize-algorithms-in-react/static/js/main.8e911ceb.chunk.js",
-    "main.js.map": "/visualize-algorithms-in-react/static/js/main.8e911ceb.chunk.js.map",
+    "main.js": "/visualize-algorithms-in-react/static/js/main.b168b72a.chunk.js",
+    "main.js.map": "/visualize-algorithms-in-react/static/js/main.b168b72a.chunk.js.map",
     "runtime-main.js": "/visualize-algorithms-in-react/static/js/runtime-main.7746316c.js",
     "runtime-main.js.map": "/visualize-algorithms-in-react/static/js/runtime-main.7746316c.js.map",
     "static/css/2.04161cee.chunk.css": "/visualize-algorithms-in-react/static/css/2.04161cee.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.04161cee.chunk.css",
     "static/js/2.5f95926d.chunk.js",
     "static/css/main.51f32347.chunk.css",
-    "static/js/main.8e911ceb.chunk.js"
+    "static/js/main.b168b72a.chunk.js"
   ]
 }
