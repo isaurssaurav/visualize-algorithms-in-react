@@ -2,4 +2,4 @@
 For now, only depth first search and breadth first search are available.
 
 ## Demo
-![Click Here](https://raw.githubusercontent.com/isaurssaurav/visualize-algorithms-in-react/main/public/demo.png)
+![https://isaurssaurav.github.io/visualize-algorithms-in-react/](https://raw.githubusercontent.com/isaurssaurav/visualize-algorithms-in-react/main/public/demo.png)
